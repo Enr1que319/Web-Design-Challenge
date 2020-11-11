@@ -1,0 +1,119 @@
+.navbar{
+    background-color: rgb(57, 59, 59) !important;
+    border-bottom: 4px solid #48C9B0;
+}
+
+.navbar .navbar-brand{
+    color: white !important;
+    font-size: xx-large;
+    font-family: 'Kaushan Script',cursive;
+    margin-left: 70px;
+}
+
+.navbar .navbar-brand:hover{
+    color: #48C9B0 !important;
+}
+
+
+.navbar .nav .nav-item > a{
+    background-color: rgb(57, 59, 59) !important;
+    color: white !important;
+}
+
+.navbar .nav .nav-item > a:hover{
+    color: #48C9B0 !important;
+}
+
+.navbar .nav{
+    margin-right: 50px;
+}
+
+.navbar .nav .nav-item .nav-link{
+    outline:none;
+}
+
+
+
+.navbar .nav .nav-item .dropdown-menu .dropdown-divider{
+    border-color:#48C9B0;
+}
+
+body{
+    background-color: #707B7C;
+}
+
+.navbar .nav .nav-item .dropdown-menu .dropdown-item{
+    background-color:rgb(57, 59, 59);
+    color: white;
+}
+
+.navbar .nav .nav-item .dropdown-menu .dropdown-item:hover{
+    color: #48C9B0 !important;
+}
+
+.navbar .nav .nav-item .dropdown-menu{
+    background-color:rgb(57, 59, 59);
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(57, 59, 59);
+    color: white;
+    text-align: center;
+    border-top: 4px solid #48C9B0;
+    font-size: small;
+    padding-top: 16px;
+ }
+
+
+ .jumbotron{
+    border-radius: 10px;
+    color: white;
+    background-color:rgb(57, 59, 59);
+    border: .6px solid #48C9B0;;
+
+ }
+
+ .row .col-8 .jumbotron .display{
+     font-size: xx-large;
+ }
+
+ .row .col-4 .jumbotron .display{
+    font-size: x-large;
+}
+
+.row .jumbotron .my-4{
+    border-color:#48C9B0;
+}
+
+/* .wrapper {
+    column-count: 1;
+    column-gap: 12px;
+    padding: 12px;
+  } */
+
+
+.fig1 .TextWrap{ 
+    height: 300px;
+    width: 450px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+
+  .row .jumbotron .wrapper p{
+    text-align: justify;
+    font-size: medium;
+}
+
+.row .jumbotron .row .col-6 a{
+    margin: 07px;
+}
+
+.container-fluid .row .col-md-6 a > img{
+    margin-top: 20px;
+}
