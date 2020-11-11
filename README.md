@@ -14,6 +14,7 @@ The following tools were used to develop the web page.
 + CSS
 + Bootstrap
 
+[![](img/1.png)]()  
 
 
 https://enr1que319.github.io/Web-Design-Challenge/index.html
